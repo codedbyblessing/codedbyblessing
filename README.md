@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning computer science, focusing on software engineering at NYU Tandon.
 - 💗 Pronouns: she/her/hers
 - 💡 Hugging Face Hub, OpenRouter
+- ⭐️ Preferred language -> C++
